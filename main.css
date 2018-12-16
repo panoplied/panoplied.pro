@@ -3,10 +3,26 @@ body {
     font-family: 'IBM Plex Sans', sans-serif;
 }
 
-.header {
-    color: #fff;
-    font-size: 64px;
+.wrapper {
     position: absolute;
     left: 128px;
     top: 128px;
+}
+
+.header {
+    color: #fff;
+    font-size: 64px;
+}
+
+.projects {
+    color: #fff;
+    font-size: 32px;
+    margin-top: 32px;
+}
+
+.projects ul {
+    color: #fff;
+    font-size: 24px;
+    line-height: 1.8;
+    list-style-type: none;
 }
