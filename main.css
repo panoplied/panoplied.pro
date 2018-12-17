@@ -29,7 +29,7 @@ a.linkedin:hover {
 .wrapper {
     position: absolute;
     left: 128px;
-    top: 128px;
+    top: 96px;
 }
 
 .header {
@@ -42,7 +42,7 @@ a.linkedin:hover {
     color: #fff;
     font-size: 32px;
     font-weight: 100;
-    margin-top: 32px;
+    margin-top: 64px;
 }
 
 .projects ul {
