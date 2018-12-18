@@ -30,6 +30,7 @@ a.linkedin:hover {
     position: absolute;
     left: 128px;
     top: 96px;
+    padding-bottom: 256px;
 }
 
 .header {
