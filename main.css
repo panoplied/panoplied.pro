@@ -16,15 +16,41 @@ a:hover {
 }
 
 a.linkedin {
+    font-weight: 800;
     text-decoration: none;
-    border-bottom: 1px solid rgba(0, 255, 255, 0.5);
+    border-bottom: 1px solid rgba(0, 119, 181, 0.7);
     padding-bottom: 2px;
 }
 
 a.linkedin:hover {
     text-decoration: none;
-    border-bottom: 2px solid rgba(0, 255, 255, 1.0);
+    border-bottom: 2px solid rgba(0, 119, 181, 1.0);
 }
+
+a.github {
+    font-weight: 800;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(64, 120, 192, 0.7);
+    padding-bottom: 2px;
+}
+
+a.github:hover {
+    text-decoration: none;
+    border-bottom: 2px solid rgba(64, 120, 192, 1.0);
+}
+
+a.instagram {
+    font-weight: 800;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(193, 53, 132, 0.7);
+    padding-bottom: 2px;
+}
+
+a.instagram:hover {
+    text-decoration: none;
+    border-bottom: 2px solid rgba(193, 53, 132, 1.0);
+}
+
 
 .wrapper {
     position: absolute;
